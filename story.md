@@ -236,3 +236,8 @@ be day, and you could get nothing for a duddu. It became like any
 other place.
 [A Kannada folktale from A.K. Ramanujan’s
 Folk Tales from India]
+
+Glossary
+bailiff: a law officer who makes sure that the decisions of a court
+are obeyed
+scrape: a difficult situation that one has got into
